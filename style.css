@@ -1,0 +1,39 @@
+.background{
+  background-image: url(/img/le-coeur-a-ses-raisons.jpg);
+  width: 1200px;
+  background-repeat: no-repeat;
+}
+.GIF-brenda{
+  background-image: url(https://media.tenor.com/vfxwzhGmhM0AAAAC/le-coeur-a-ses-raisons-lcasr.gif);
+  width: 50%;
+  height: 15em;
+  background-size: contain;background-repeat: no-repeat;
+  margin: auto;
+}
+
+#crTex{
+  margin-top: 24px;
+  width: 50%;
+  font-size: 24px;
+  margin-right: 30px;
+}
+
+.cardimg{
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body{
+  height: 200px;
+}
+
+.fit{
+  object-fit: cover
+}
+footer img {
+  width: 20px;
+}
+
+main {
+  padding: 0px;
+}
